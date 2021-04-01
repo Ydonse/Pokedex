@@ -37,6 +37,7 @@ const Pokemon = props => {
         const { name, id, species, height, weight, types, sprites } = pokemon;
         const fullImageUrl = `https://pokeres.bastionbot.org/images/pokemon/${id}.png`;
         const { front_default } = sprites;
+        console.log("true");
 
         return (
             <>
