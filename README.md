@@ -9,7 +9,7 @@ Cette application permet d'obtenir des informations sur tous les pokémons exist
 - Requêtes vers API Pokémon avec Axios
 - Utilsation de MakeStyles pour gérer le CSS
 
-## Comment utiliser ce bot
+## Comment utiliser cette app
 1) Installer NPM
 2) Dans le repertoire de l'application, lancer `npm start` dans le terminal
 3) Cliquer sur le pokémon de votre choix
